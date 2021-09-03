@@ -1,0 +1,28 @@
+.campo {
+    border-radius: 5px;
+    font-weight: 300;
+    font-size: 1.2rem;
+    margin: 10px;
+    padding: 5px;
+    width: 80%;
+}
+.campo1 {
+    border-radius: 5px;
+    font-weight: 300;
+    font-size: 1.5rem;
+    margin: 10px;
+    padding: 5px;
+    width: 80%;
+    height:40% ;
+}
+.botao {
+    border-radius: 5px;
+    margin: 10px;
+    padding: 7px;
+    background-color: #000000;
+    border-width: 1px;
+    border-color: gray;
+    width: 80%;
+    font-size: 1.2rem;
+    color: #fff;
+}
